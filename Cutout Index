@@ -1,0 +1,8 @@
+NGC 2528 - cutout_121.8537_39.1945.fits
+NGC 5527 - cutout_213.6147_36.4035.fits
+NGC 5533 - cutout_214.0308_35.3431.fits
+NGC 5517 - cutout_213.2140_35.7110.fits
+NGC 5568 - cutout_214.8391_35.0922.fits
+IC 4446 - cutout_217.2541_37.4633.fits
+There are several additional cutouts in this repository. One of them was used for the test, and replaced with a better cutout of the same galaxy (NGC 2528) for the final analyis. 
+The others are galaxies that we took cutouts for, but could not be meaningfully fit, and therefore could not be used.
